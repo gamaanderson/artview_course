@@ -6,5 +6,5 @@ Virtual machine for use in the course.. For static notebooks:
 <p>
 
 <p>
-<a href='http://nbviewer.ipython.org/github/gamaanderson/artview_course/blob/master/1_plugins.ipynb'> Adding a Plugin to ARTView</a>
+<a href='http://nbviewer.ipython.org/github/gamaanderson/artview_course/blob/master/2_Plugins.ipynb'> Adding a Plugin to ARTView</a>
 <p>

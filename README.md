@@ -4,4 +4,7 @@ Virtual machine for use in the course.. For static notebooks:
 <p>
 <a href='http://nbviewer.ipython.org/github/gamaanderson/artview_course/blob/master/1_components_and_shared_variables.ipynb'> Introduction to the ARTView components and shared variables concept</a>
 <p>
-<a 
+
+<p>
+<a href='http://nbviewer.ipython.org/github/gamaanderson/artview_course/blob/master/1_plugins.ipynb'> Adding a Plugin to ARTView</a>
+<p>
